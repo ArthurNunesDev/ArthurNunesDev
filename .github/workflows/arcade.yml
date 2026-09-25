@@ -28,24 +28,26 @@ jobs:
           echo "game=$GAME" >> "$GITHUB_OUTPUT"
           echo "Jogo escolhido: $GAME (index $INDEX)"
 
-      - name: Gerar Snake (quando for a vez dela)
+      - name: Gerar Snake (light + dark)
         if: steps.pick.outputs.game == 'snake'
         uses: Platane/snk@v3
         with:
           github_user_name: ArthurNunesDev
           outputs: |
             dist/arcade.svg?color_snake=#c084fc&color_dots=#0d0b14,#3b1e6d,#5b21b6,#7c3aed,#a855f7&color_dots_border=#1e1b2e
+            dist/arcade-dark.svg?color_snake=#e9d5ff&color_dots=#161320,#3b1e6d,#6d28d9,#8b5cf6,#c084fc&color_dots_border=#1e1b2e
 
-      - name: Gerar Pacman (quando for a vez dele)
+      - name: Gerar Pacman (light + dark, igual ao padrão da lib)
         if: steps.pick.outputs.game == 'pacman'
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: pacman
 
-      - name: Renomear Pacman para nome fixo (arcade.svg)
+      - name: Renomear Pacman para nome fixo (arcade.svg / arcade-dark.svg)
         if: steps.pick.outputs.game == 'pacman'
-        run: mv "dist/pacman-contribution-graph.svg" "dist/arcade.svg"
+        run: |
+          mv "dist/pacman-contribution-graph.svg" "dist/arcade.svg"
+          mv "dist/pacman-contribution-graph-dark.svg" "dist/arcade-dark.svg"
 
       - name: Publicar no branch de output
         uses: crazy-max/ghaction-github-pages@v3.1.0
