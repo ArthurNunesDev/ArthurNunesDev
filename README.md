@@ -1,57 +1,102 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Arthur%20Nunes&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer%20%7C%20ADS%20Student&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&random=false&width=600&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;Front-end+Developer;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
 </div>
 
-#
+<br/>
+
+<table align="center">
+<tr>
+<td valign="top" width="60%">
+
+### 👨‍💻 Sobre mim
+
 Me chamo **Arthur Nunes**, curso Análise e Desenvolvimento de Sistemas (ADS) e tenho foco em **Front-end Development**. Gosto de explorar novas tecnologias e estou sempre construindo projetos para colocar em prática o que aprendo.
-->
 
-#
+- 🔭 Atualmente estudando ADS
+- 🌱 Aprofundando conhecimentos em React
+- 💬 Me chame para falar sobre front-end, web dev ou projetos
+- ⚡ Curioso sobre tecnologia e sempre com um projeto novo rodando
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+</td>
+<td valign="top" width="40%" align="center">
 
-<h3 align="left">Connect with me!</h3>
+<img src="./src/edgerunners.gif" width="100%"/>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:arthurnunesberti@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/seu-usuario/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=FFF)](https://www.instagram.com/seu-usuario/)
+</td>
+</tr>
+</table>
 
-
-<h3 align="left">My Stack ~</h3>
-
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<br/>
 <br/>
 
-<h3 align="left">GitHub Stats</h3>
+<div align="center">
 
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=ArthurNunesDev&show_icons=true&locale=pt-br&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
-  />
+### 🔗 Connect with me
 
-  <img
-    align="left"
-    alt="Top Languages"
-    height="200"
-    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=ArthurNunesDev&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff"
-  />
-</p>
+[![E-mail](https://img.shields.io/badge/-Email-8A2BE2?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:arthurnunesberti@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-nunes-berti-xavier-60201236a/)
+[![Instagram](https://img.shields.io/badge/-Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario/)
 
-<br clear="both"/>
+</div>
 
+<br/>
+
+<div align="center">
+
+### 🛠️ My Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,c,php,react,mysql,git,github&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img height="165em" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=ArthurNunesDev&show_icons=true&locale=pt-br&hide=contribs&count_private=true&cache_seconds=21600&bg_color=0f0c29&title_color=B983FF&text_color=ffffff&icon_color=B983FF&border_color=B983FF&ring_color=B983FF"/>
+<img height="165em" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=ArthurNunesDev&layout=compact&langs_count=8&bg_color=0f0c29&title_color=B983FF&text_color=ffffff&icon_color=B983FF&border_color=B983FF&ring_color=B983FF"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ArthurNunesDev&theme=dark&hide_border=true&background=0f0c29&ring=B983FF&fire=B983FF&currStreakLabel=B983FF"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=ArthurNunesDev&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+
+</div>
+
+<br/>
+
+<!--
+  Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurNunesDev/ArthurNunesDev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurNunesDev/ArthurNunesDev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArthurNunesDev/ArthurNunesDev/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+-->
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ArthurNunesDev&color=B983FF&style=flat&label=Profile+Views)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
