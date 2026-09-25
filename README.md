@@ -14,8 +14,6 @@
 
 Me chamo **Arthur Nunes**, curso Análise e Desenvolvimento de Sistemas (ADS) e tenho foco em **Front-end Development**. Gosto de explorar novas tecnologias e estou sempre construindo projetos para colocar em prática o que aprendo.
 
-
-
 #
 
 <img align="right" alt="" height="187px" src="./src/edgerunners.gif">
@@ -54,6 +52,8 @@ Me chamo **Arthur Nunes**, curso Análise e Desenvolvimento de Sistemas (ADS) e 
 </p>
 
 <br clear="left">
+
+#
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurNunesDev/ArthurNunesDev/pacman-output/arcade-dark.svg">
