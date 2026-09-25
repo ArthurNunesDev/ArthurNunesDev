@@ -83,10 +83,5 @@ Me chamo **Arthur Nunes**, curso Análise e Desenvolvimento de Sistemas (ADS) e 
 </div>
 -->
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ArthurNunesDev&color=B983FF&style=flat&label=Profile+Views)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
