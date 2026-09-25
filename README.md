@@ -14,6 +14,10 @@
 
 Me chamo **Arthur Nunes**, curso Análise e Desenvolvimento de Sistemas (ADS) e tenho foco em **Front-end Development**. Gosto de explorar novas tecnologias e estou sempre construindo projetos para colocar em prática o que aprendo.
 
+- 🔭 Atualmente estudando ADS
+- 🌱 Aprofundando conhecimentos em React
+- 💬 Me chame para falar sobre front-end, web dev ou projetos
+- ⚡ Curioso sobre tecnologia e sempre com um projeto novo rodando
 
 #
 
