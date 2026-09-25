@@ -8,11 +8,7 @@
 
 </div>
 
-<br/>
-
-<table align="center">
-<tr>
-<td valign="top" width="60%">
+#
 
 ### 👨‍💻 Sobre mim
 
@@ -23,18 +19,9 @@ Me chamo **Arthur Nunes**, curso Análise e Desenvolvimento de Sistemas (ADS) e 
 - 💬 Me chame para falar sobre front-end, web dev ou projetos
 - ⚡ Curioso sobre tecnologia e sempre com um projeto novo rodando
 
-</td>
-<td valign="top" width="40%" align="center">
+#
 
-<img src="./src/edgerunners.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
+<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
 
 ### 🔗 Connect with me
 
@@ -42,40 +29,46 @@ Me chamo **Arthur Nunes**, curso Análise e Desenvolvimento de Sistemas (ADS) e 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-nunes-berti-xavier-60201236a/)
 [![Instagram](https://img.shields.io/badge/-Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario/)
 
-</div>
-
-<br/>
-
-<div align="center">
 
 ### 🛠️ My Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,react,mysql,git,github&theme=dark" />
 
-</div>
-
 <br/>
 
-<div align="center">
 
-### 📊 GitHub Stats
+<h3 align="left">📊 GitHub Stats</h3>
 
-<img height="165em" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=ArthurNunesDev&show_icons=true&locale=pt-br&hide=contribs&count_private=true&cache_seconds=21600&bg_color=0f0c29&title_color=B983FF&text_color=ffffff&icon_color=B983FF&border_color=B983FF&ring_color=B983FF"/>
-<img height="165em" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=ArthurNunesDev&layout=compact&langs_count=8&bg_color=0f0c29&title_color=B983FF&text_color=ffffff&icon_color=B983FF&border_color=B983FF&ring_color=B983FF"/>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=ArthurNunesDev&show_icons=true&locale=pt-br&hide=contribs&count_private=true&cache_seconds=21600&bg_color=0f0c29&title_color=B983FF&text_color=ffffff&icon_color=B983FF&border_color=B983FF&ring_color=B983FF"
+  />
 
-<br/>
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=ArthurNunesDev&layout=compact&langs_count=8&bg_color=0f0c29&title_color=B983FF&text_color=ffffff&icon_color=B983FF&border_color=B983FF&ring_color=B983FF"
+  />
+</p>
+
+<br clear="left">
 
 <picture>
-<source
-  media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/ArthurNunesDev/ArthurNunesDev/output/github-contribution-grid-snake-dark.svg"
-/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ArthurNunesDev/ArthurNunesDev/output/github-contribution-grid-snake-dark.svg"
+  />
 
-<img
-  align="center"
-  alt="GitHub Contribution Snake"
-  src="https://raw.githubusercontent.com/ArthurNunesDev/ArthurNunesDev/output/github-contribution-grid-snake.svg"
-/>
+  <img
+    align="center"
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/ArthurNunesDev/ArthurNunesDev/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
