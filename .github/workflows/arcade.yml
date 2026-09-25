@@ -2,7 +2,7 @@ name: Generate arcade animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # roda às 00:00 e 12:00 UTC
+    - cron: "*/10 * * * *"   # roda a cada 10 minutos
 
   workflow_dispatch:
 
@@ -23,7 +23,7 @@ jobs:
         run: |
           GAMES=(snake pacman)
           EPOCH=$(date +%s)
-          INDEX=$(( (EPOCH / 43200) % 2 ))   # 43200s = 12h -> alterna entre os 2 jogos
+          INDEX=$(( (EPOCH / 600) % 2 ))   # 600s = 10min -> alterna entre os 2 jogos
           GAME=${GAMES[$INDEX]}
           echo "game=$GAME" >> "$GITHUB_OUTPUT"
           echo "Jogo escolhido: $GAME (index $INDEX)"
