@@ -21,7 +21,7 @@ Me chamo **Arthur Nunes**, curso Análise e Desenvolvimento de Sistemas (ADS) e 
 
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="" height="180px" src="./src/edgerunners.gif">
 
 ### 🔗 Connect with me
 
