@@ -21,22 +21,31 @@ jobs:
       - name: Escolher o jogo da vez (baseado no horário)
         id: pick
         run: |
-          GAMES=(pacman breakout galaga puzzle-bobble bomberman)
+          GAMES=(snake pacman)
           EPOCH=$(date +%s)
-          INDEX=$(( (EPOCH / 43200) % 5 ))   # 43200s = 12h
+          INDEX=$(( (EPOCH / 43200) % 2 ))   # 43200s = 12h -> alterna entre os 2 jogos
           GAME=${GAMES[$INDEX]}
           echo "game=$GAME" >> "$GITHUB_OUTPUT"
           echo "Jogo escolhido: $GAME (index $INDEX)"
 
-      - name: Gerar SVG do jogo escolhido
+      - name: Gerar Snake (quando for a vez dela)
+        if: steps.pick.outputs.game == 'snake'
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ArthurNunesDev
+          outputs: |
+            dist/arcade.svg?color_snake=#c084fc&color_dots=#0d0b14,#3b1e6d,#5b21b6,#7c3aed,#a855f7&color_dots_border=#1e1b2e
+
+      - name: Gerar Pacman (quando for a vez dele)
+        if: steps.pick.outputs.game == 'pacman'
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: ${{ steps.pick.outputs.game }}
+          games: pacman
 
-      - name: Renomear para nome fixo (arcade.svg)
-        run: |
-          mv "dist/${{ steps.pick.outputs.game }}-contribution-graph.svg" "dist/arcade.svg"
+      - name: Renomear Pacman para nome fixo (arcade.svg)
+        if: steps.pick.outputs.game == 'pacman'
+        run: mv "dist/pacman-contribution-graph.svg" "dist/arcade.svg"
 
       - name: Publicar no branch de output
         uses: crazy-max/ghaction-github-pages@v3.1.0
