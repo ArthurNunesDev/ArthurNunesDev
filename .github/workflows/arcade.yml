@@ -1,0 +1,47 @@
+name: Generate arcade animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # roda às 00:00 e 12:00 UTC
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Escolher o jogo da vez (baseado no horário)
+        id: pick
+        run: |
+          GAMES=(pacman breakout galaga puzzle-bobble bomberman)
+          EPOCH=$(date +%s)
+          INDEX=$(( (EPOCH / 43200) % 5 ))   # 43200s = 12h
+          GAME=${GAMES[$INDEX]}
+          echo "game=$GAME" >> "$GITHUB_OUTPUT"
+          echo "Jogo escolhido: $GAME (index $INDEX)"
+
+      - name: Gerar SVG do jogo escolhido
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: ${{ steps.pick.outputs.game }}
+
+      - name: Renomear para nome fixo (arcade.svg)
+        run: |
+          mv "dist/${{ steps.pick.outputs.game }}-contribution-graph.svg" "dist/arcade.svg"
+
+      - name: Publicar no branch de output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: pacman-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
