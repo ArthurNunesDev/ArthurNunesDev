@@ -1,9 +1,9 @@
-name: generate snake animation
+name: generate animation
 
 on:
   schedule:
-    - cron: "0 3 * * *"
-  workflow_dispatch: {} # permite rodar manualmente pelo botão "Run workflow"
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -13,18 +13,16 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
-      - name: generate github-contribution-grid snake
+      - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         with:
           github_user_name: ArthurNunesDev
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=B983FF&color_dots=161b22,3d1f6e,5a2fa8,7c4ddb,B983FF
+            dist/github-contribution-grid-snake.svg?color_snake=#c084fc,#7c3aed&color_dots=#0d0b14,#3b1e6d,#5b21b6,#7c3aed,#a855f7&color_dots_border=#1e1b2e
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#e9d5ff,#9333ea&color_dots=#161320,#3b1e6d,#6d28d9,#8b5cf6,#c084fc&color_dots_border=#1e1b2e
 
-      - name: push github-contribution-grid snake artifacts
+      - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
