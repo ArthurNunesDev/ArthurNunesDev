@@ -14,10 +14,7 @@
 
 Me chamo **Arthur Nunes**, curso Análise e Desenvolvimento de Sistemas (ADS) e tenho foco em **Front-end Development**. Gosto de explorar novas tecnologias e estou sempre construindo projetos para colocar em prática o que aprendo.
 
-- 🔭 Atualmente estudando ADS
-- 🌱 Aprofundando conhecimentos em React
-- 💬 Me chame para falar sobre front-end, web dev ou projetos
-- ⚡ Curioso sobre tecnologia e sempre com um projeto novo rodando
+
 
 #
 
@@ -59,15 +56,9 @@ Me chamo **Arthur Nunes**, curso Análise e Desenvolvimento de Sistemas (ADS) e 
 <br clear="left">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-  />
-
-  <img
-    align="center"
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/ArthurNunesDev/ArthurNunesDev/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurNunesDev/ArthurNunesDev/pacman-output/arcade-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurNunesDev/ArthurNunesDev/pacman-output/arcade.svg">
+  <img align="center" alt="GitHub Contribution Arcade (Snake/Pacman)" src="https://raw.githubusercontent.com/ArthurNunesDev/ArthurNunesDev/pacman-output/arcade.svg">
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
