@@ -50,7 +50,7 @@ Me chamo **Arthur Nunes**, curso Análise e Desenvolvimento de Sistemas (ADS) e 
 
 ### 🛠️ My Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,php,react,mysql,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,react,sql,git,github&theme=dark" />
 
 </div>
 
