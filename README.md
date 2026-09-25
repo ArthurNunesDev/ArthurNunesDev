@@ -69,17 +69,7 @@ Me chamo **Arthur Nunes**, curso Análise e Desenvolvimento de Sistemas (ADS) e 
 
 </div>
 
-<br/>
 
-<div align="center">
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArthurNunesDev&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1"/>
-
-</div>
-
-<br/>
 
 <!--
   Snake
