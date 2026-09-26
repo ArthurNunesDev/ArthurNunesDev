@@ -24,9 +24,9 @@ Me chamo **Arthur Nunes**, curso Análise e Desenvolvimento de Sistemas (ADS) e 
 
 ### 🛠️ Minhas Linguagens
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,postgres,&theme=dark" />
   <br>
-  <img src="https://skillicons.dev/icons?i=java,php,react,mysql,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,php,react,mysql,github,&theme=dark" />
 </div>
 <br/>
 
