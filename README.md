@@ -13,7 +13,7 @@ Me chamo **Arthur Nunes**, curso Análise e Desenvolvimento de Sistemas (ADS) e 
 
 #
 
-<img align="right" alt="" height="187px" src="./src/edgerunners.gif">
+<img align="right" alt="" height="200px" src="./src/edgerunners.gif">
 
 ### 🔗 Conecte-se comigo
 
@@ -23,9 +23,11 @@ Me chamo **Arthur Nunes**, curso Análise e Desenvolvimento de Sistemas (ADS) e 
 
 
 ### 🛠️ Minhas Linguagens
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,react,mysql,git,github&theme=dark" />
-
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=java,php,react,mysql,&theme=dark" />
+</div>
 <br/>
 
 
