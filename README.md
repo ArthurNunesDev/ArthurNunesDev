@@ -22,7 +22,7 @@ Me chamo **Arthur Nunes**, curso Análise e Desenvolvimento de Sistemas (ADS) e 
 [![Instagram](https://img.shields.io/badge/-Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nunnez_175/)
 
 
-### 🛠️ Minhas Linguagens
+### 🛠️ Minhas Linguagens & Técnologias
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,python,postgres,&theme=dark" />
   <br>
