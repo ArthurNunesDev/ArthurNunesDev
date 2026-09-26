@@ -19,7 +19,7 @@ Me chamo **Arthur Nunes**, curso Análise e Desenvolvimento de Sistemas (ADS) e 
 
 [![E-mail](https://img.shields.io/badge/-Email-8A2BE2?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:arthurnunesberti@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-nunes-berti-xavier-60201236a/)
-[![Instagram](https://img.shields.io/badge/-Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario/)
+[![Instagram](https://img.shields.io/badge/-Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nunnez_175/)
 
 
 ### 🛠️ Minhas Linguagens
