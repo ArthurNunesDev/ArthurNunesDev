@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/ArthurNunesDev/ArthurNunesDev/main/src/BannerV2.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/ArthurNunesDev/ArthurNunesDev/main/src/Banner.svg" width="100%"/>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&random=false&width=600&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;Front-end+Developer;always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
