@@ -9,7 +9,11 @@
 
 ### 👨‍💻 Sobre min
 
-Me chamo **Arthur Nunes**, curso Análise e Desenvolvimento de Sistemas (ADS) e tenho foco em **Front-end Development**. Gosto de explorar novas tecnologias e estou sempre construindo projetos para colocar em prática o que aprendo.
+Me chamo **Arthur Nunes**, curso Análise e Desenvolvimento de Sistemas (ADS) e tenho foco em Front-end Development. Gosto de explorar novas tecnologias e desenvolver projetos para colocar meus conhecimentos em prática.
+
+Atualmente, trabalho na Polícia Civil do Espírito Santo (PCES), no setor de Desenvolvimento, atuando na criação e evolução de sistemas Front-end e Back-end. Tenho maior experiência e afinidade com Front-end, área em que mais atuo.
+
+Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para desenvolver soluções funcionais e de qualidade.
 
 #
 
